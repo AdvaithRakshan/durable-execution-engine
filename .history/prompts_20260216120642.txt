@@ -1,0 +1,23 @@
+Help me design a durable execution engine in Go using SQLite and generics.
+
+Explain how durable execution works in systems like Temporal and Azure Durable Functions.
+
+How do I implement a generic Step function in Go using generics?
+
+How can I store and retrieve generic values in SQLite using JSON serialization?
+
+Explain the zombie step problem and how to solve it using database transactions.
+
+How can I use SQLite WAL mode to improve concurrency?
+
+How do I implement crash recovery safely using atomic transactions?
+
+How can I prevent SQLITE_BUSY errors in SQLite during concurrent writes?
+
+How can I simulate crashes in Go for testing durability?
+
+Explain how to use mutex safely with database transactions to prevent deadlocks.
+
+How do durable workflow engines ensure idempotent execution?
+
+How can I implement thread-safe persistence layer in Go?
